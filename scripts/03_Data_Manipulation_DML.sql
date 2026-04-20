@@ -44,7 +44,7 @@ VALUES
 INSERT INTO customers (id, first_name)
 VALUES 
     (10, 'Sahra')
-
+ 
 /* #2 Method: INSERT DATA USING SELECT - Moving Data From One Table to Another */
 -- Copy data from the 'customers' table into 'persons'
 INSERT INTO persons (id, person_name, birth_date, phone)
